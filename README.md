@@ -25,6 +25,9 @@
 - **AI Assistant**: Predefined Q&A chatbot  
 
 ---
+## Author:
+Nithyashree U R (ADS)
+R.M.K. Engineering College
 
 ## 📦 Installation & Setup
 
@@ -34,6 +37,4 @@ Clone the repository:
 git clone https://github.com/nithyashreeur/enershift-simulator.git
 cd enershift-simulator
 
-## Author:
-Nithyashree U R (ADS)
-R.M.K. Engineering College
+
